@@ -1,4 +1,3 @@
-float i;
 void setup(){
   size(1920, 1080);
   noStroke();
